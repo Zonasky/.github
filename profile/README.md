@@ -1,10 +1,10 @@
 # Zonasky
 
-Zonasky is an organization that specializes in making cool PocketMine plugins. We were founded by [skyss0fly](https://github.com/skyss0fly) and our developer is [Inaayat](https://github.com/Inaay).
+Zonasky is an organization that specializes in making cool PocketMine plugins. We were founded by [skyss0fly](https://github.com/skyss0fly) and our developer is [RealMeow](https://github.com/NotRealMeow).
 
 ## About Us
 
-At Zonasky, we are passionate about creating innovative plugins that enhance the PocketMine server experience. Our team is composed of a talented developer named inaayat (I Can't code that good -skyss0fly) who is constantly striving to create the best plugins possible.
+At Zonasky, we are passionate about creating innovative plugins that enhance the PocketMine server experience. Our team is composed of a talented developer named NotRealMeow and skyss0fly who are constantly striving to create the best plugins possible.
 
 ## Our Plugins
 
